@@ -1,4 +1,4 @@
-# VehicleInventory
+# Vehicle Inventory Project
 
 Basic spring boot and hibernate vehicle inventory project. Mysql used as primary DB.
 Rest API's end points which provides a basic data consuming and manipulation operations.
